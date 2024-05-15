@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "lab02-node-database",
   "version": "1.0.0",
   "description": "2024 - PoliTo - Web App I - Lab 2",
