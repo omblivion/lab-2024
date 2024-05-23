@@ -12,6 +12,7 @@ Laboratories solutions (under development) for the course of _Web Applications I
 - Lab 05: [JavaScript in the Browser](https://github.com/polito-webapp1/lab-2024/tree/main/lab05-js-browser)
 - Lab 06: [Getting started with React](https://github.com/polito-webapp1/lab-2024/tree/main/lab06-react)
 - Lab 07: [React Forms](https://github.com/polito-webapp1/lab-2024/tree/main/lab07-forms)
+<<<<<<< HEAD
 - Lab 08:
 - Lab 09:
 - Lab 10:
@@ -61,3 +62,9 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 The text and a (possible) solution of each laboratory are available in the [`lab-2024` repository](https://github.com/polito-webapp1/lab-2024).
 
 >>>>>>> upstream/main
+=======
+- Lab 08: [Multiple Pages in React](https://github.com/polito-webapp1/lab-2024/tree/main/lab08-routes)
+- Lab 09: [API Integration (part 1)](https://github.com/polito-webapp1/lab-2024/tree/main/lab09-client-server-I)
+- Lab 10: API Integration (part 2)
+- Lab 11: Authentication
+>>>>>>> upstreamlab/main
